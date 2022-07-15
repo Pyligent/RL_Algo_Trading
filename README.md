@@ -1,4 +1,4 @@
-# RL_Algo_Trading
+# Reinforcement Learning Algo Trading
 ## Deep Reinforcement Learning in Algorithm Trading 
 
 ### [Project Paper](https://github.com/Pyligent/RL_Algo_Trading/blob/main/RL_Algo_Trading.pdf)
